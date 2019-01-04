@@ -1,5 +1,5 @@
 # original developer: umangahuja1
-# https://github.com/umangahuja1/Youtube/blob/master/Whatsapp%20Automation/updated.py
+# source : https://github.com/umangahuja1/Youtube/blob/master/Whatsapp%20Automation/updated.py
 
 from selenium import webdriver
 
