@@ -28,7 +28,7 @@ print('\n')
 user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
 user.click()
 
-msg_box = driver.find_element_by_class_name('_2S1VP)
+msg_box = driver.find_element_by_class_name('_2S1VP')
 
 # main spam message loop here
 while True:
