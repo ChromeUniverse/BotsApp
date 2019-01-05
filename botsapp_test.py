@@ -1,4 +1,4 @@
-from time import sleep #attempt to reduce lag
+from time import sleep #attempt to reduce laggy behavior
 from selenium import webdriver
 
 # important: specifiy path to 'chromedriver' as an argument for webdriver
