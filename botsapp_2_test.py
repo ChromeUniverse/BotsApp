@@ -37,8 +37,7 @@ for victim in contact_list:
         "Do not go gentle into that good night " \
         "Grave men, near death, who see with blinding sight " \
         "Blind eyes could blaze like meteors and be gay " \
-        "Rage, rage against the dying of the light " + 
-        "\n A poem by Dylan Thomas, but sent remotely by BotsApp 2.0 automated SpamBot ;-)"
+        "Rage, rage against the dying of the light " +  "\n A poem by Dylan Thomas, but sent remotely by BotsApp 2.0 automated SpamBot ;-)"
 
     # selenium wizardry
     user = driver.find_element_by_xpath('//span[@title = "{}"]'.format(name))
