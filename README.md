@@ -10,6 +10,8 @@ Version 1.2 - Ability to enter 100 numbers at a time (attempt to reduce weird Wh
 
 Version 1.3 - Added delay in main loop to reduce weird WhatsApp behavior, minor refinements
 
+Version 2.0 - Can now send 1 or more messages to multiple contacts/group chats simultaneously
+
 #### Credits:
 Developer - Lucca Rodrigues (a.k.a ChromeUniverse)
 
