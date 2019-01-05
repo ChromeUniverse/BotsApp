@@ -6,12 +6,12 @@ driver = webdriver.Chrome('/Applications/chromedriver')
 # opening Google Chrome
 driver.get('https://web.whatsapp.com/')
 
-delay = 0.300 # loop delay in seconds
+delay = 0.175 # loop delay in seconds
 
 # welcome message
 print('\n')
 print('\n')
-print('Welcome to BotsApp SpamBot Ver1.2!')
+print('Welcome to BotsApp SpamBot Ver1.3!')
 print('\n')
 print('\n')
 
@@ -45,7 +45,7 @@ while True:
 # exit message
 print('\n')
 print('\n')
-print('Thanks for using BotsApp Ver1.2!')
+print('Thanks for using BotsApp Ver1.3!')
 print('Returning to MacOS terminal ...')
 print('\n')
 print('\n')
